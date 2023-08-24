@@ -1,1 +1,1 @@
-# Music-Synthesizer---Karplus-Strong-Algorithm
+# Music-Synthesizer--Karplus-Strong-Algorithm
